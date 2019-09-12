@@ -1,2 +1,5 @@
 # hello-world2
-testing hello-world
+
+Hi Comrades,
+
+Simply testing for now. Interested in WebGL, Three.js, Node.js, and Coffeescript.
